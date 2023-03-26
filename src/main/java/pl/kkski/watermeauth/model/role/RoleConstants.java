@@ -1,4 +1,4 @@
-package pl.kkski.watermeauth.model;
+package pl.kkski.watermeauth.model.role;
 
 public class RoleConstants {
   public static final String ADMIN = "ADMIN";

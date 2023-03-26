@@ -1,4 +1,4 @@
-package pl.kkski.watermeauth.model;
+package pl.kkski.watermeauth.model.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

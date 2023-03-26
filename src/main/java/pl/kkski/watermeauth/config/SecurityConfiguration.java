@@ -1,8 +1,8 @@
 package pl.kkski.watermeauth.config;
 
-import static pl.kkski.watermeauth.model.RoleConstants.ADMIN;
-import static pl.kkski.watermeauth.model.RoleConstants.CARETAKER;
-import static pl.kkski.watermeauth.model.RoleConstants.HEAD_CARETAKER;
+import static pl.kkski.watermeauth.model.role.RoleConstants.ADMIN;
+import static pl.kkski.watermeauth.model.role.RoleConstants.CARETAKER;
+import static pl.kkski.watermeauth.model.role.RoleConstants.HEAD_CARETAKER;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

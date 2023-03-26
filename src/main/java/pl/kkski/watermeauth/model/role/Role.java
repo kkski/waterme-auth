@@ -1,4 +1,4 @@
-package pl.kkski.watermeauth.model;
+package pl.kkski.watermeauth.model.role;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -10,6 +10,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.Setter;
+import pl.kkski.watermeauth.model.user.User;
 
 @Entity
 @Getter

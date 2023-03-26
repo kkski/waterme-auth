@@ -1,4 +1,4 @@
-package pl.kkski.watermeauth.model;
+package pl.kkski.watermeauth.model.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -13,6 +13,7 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import pl.kkski.watermeauth.model.role.Role;
 
 @Entity
 @Table(name = "\"user\"")
